@@ -1,6 +1,6 @@
-# feedMastodon
+# feedDiaspora
 
-Feed Mastodon with RSS Feeds
+Feed Diaspora with RSS Feeds
 
 ## Requirements
 
